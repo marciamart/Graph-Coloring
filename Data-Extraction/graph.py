@@ -21,6 +21,8 @@ class Graph:
                         self.data[vertex] = []
                     self.data[vertex].append(neighbor)
                     
-
+if __name__ == "__main__":
+    graph = Graph('graph.txt')
+    print(graph.data)
         
         
