@@ -25,7 +25,7 @@ class Graph:
                     self.data[vertex].append(neighbor)
                     
 if __name__ == "graph":
-    graph = Graph('instance/queen7_7.col')
+    graph = Graph('../instance/queen7_7.col')
     print(graph.data)
         
         
