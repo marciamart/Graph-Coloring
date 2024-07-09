@@ -24,8 +24,6 @@ class Graph:
 
                     self.data[vertex].append(neighbor)
                     
-if __name__ == "graph":
-    graph = Graph('../instance/queen7_7.col')
-    print(graph.data)
-        
-        
+# if __name__ == "__main__":
+#     graph = Graph('instance/queen7_7.col')
+#     print(graph.data)

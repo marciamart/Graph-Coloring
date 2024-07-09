@@ -1,0 +1,555 @@
+[
+    {
+        "instance": "DSJC1000.1.col.b",
+        "vertex": 1000,
+        "edge": 99258,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC1000.5.col.b",
+        "vertex": 1000,
+        "edge": 499652,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC1000.9.col.b",
+        "vertex": 1000,
+        "edge": 898898,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC125.1.col.b",
+        "vertex": 125,
+        "edge": 1472,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC125.5.col.b",
+        "vertex": 125,
+        "edge": 7782,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC125.9.col.b",
+        "vertex": 125,
+        "edge": 13922,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC250.1.col.b",
+        "vertex": 250,
+        "edge": 6436,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC250.5.col.b",
+        "vertex": 250,
+        "edge": 31366,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC250.9.col.b",
+        "vertex": 250,
+        "edge": 55794,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC500.1.col.b",
+        "vertex": 500,
+        "edge": 24916,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC500.5.col.b",
+        "vertex": 500,
+        "edge": 125249,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJC500.9.col.b",
+        "vertex": 500,
+        "edge": 224874,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJR500.1.col.b",
+        "vertex": 500,
+        "edge": 7110,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJR500.1c.col.b",
+        "vertex": 500,
+        "edge": 242550,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "DSJR500.5.col.b",
+        "vertex": 500,
+        "edge": 117724,
+        "chromatic number": "?",
+        "source": "DSJ"
+    },
+    {
+        "instance": "flat1000_50_0.col.b",
+        "vertex": 1000,
+        "edge": 245000,
+        "chromatic number": 50,
+        "source": "CUL"
+    },
+    {
+        "instance": "flat1000_60_0.col.b",
+        "vertex": 1000,
+        "edge": 245830,
+        "chromatic number": 60,
+        "source": "CUL"
+    },
+    {
+        "instance": "flat1000_76_0.col.b",
+        "vertex": 1000,
+        "edge": 246708,
+        "chromatic number": 76,
+        "source": "CUL"
+    },
+    {
+        "instance": "flat300_20_0.col.b",
+        "vertex": 300,
+        "edge": 21375,
+        "chromatic number": 20,
+        "source": "CUL"
+    },
+    {
+        "instance": "flat300_26_0.col.b",
+        "vertex": 300,
+        "edge": 21633,
+        "chromatic number": 26,
+        "source": "CUL"
+    },
+    {
+        "instance": "flat300_28_0.col.b",
+        "vertex": 300,
+        "edge": 21695,
+        "chromatic number": 28,
+        "source": "CUL"
+    },
+    {
+        "instance": "fpsol2.i.1.col",
+        "vertex": 496,
+        "edge": 11654,
+        "chromatic number": 65,
+        "source": "REG"
+    },
+    {
+        "instance": "fpsol2.i.2.col",
+        "vertex": 451,
+        "edge": 8691,
+        "chromatic number": 30,
+        "source": "REG"
+    },
+    {
+        "instance": "fpsol2.i.3.col",
+        "vertex": 425,
+        "edge": 8688,
+        "chromatic number": 30,
+        "source": "REG"
+    },
+    {
+        "instance": "inithx.i.1.col",
+        "vertex": 864,
+        "edge": 18707,
+        "chromatic number": 54,
+        "source": "REG"
+    },
+    {
+        "instance": "inithx.i.2.col",
+        "vertex": 645,
+        "edge": 13979,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "inithx.i.3.col",
+        "vertex": 621,
+        "edge": 13969,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "latin_square_10.col",
+        "vertex": 900,
+        "edge": 307350,
+        "chromatic number": "?",
+        "source": "NaN"
+    },
+    {
+        "instance": "le450_15a.col",
+        "vertex": 450,
+        "edge": 8168,
+        "chromatic number": 15,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_15b.col",
+        "vertex": 450,
+        "edge": 8169,
+        "chromatic number": 15,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_15c.col",
+        "vertex": 450,
+        "edge": 16680,
+        "chromatic number": 15,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_15d.col",
+        "vertex": 450,
+        "edge": 16750,
+        "chromatic number": 15,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_25a.col",
+        "vertex": 450,
+        "edge": 8260,
+        "chromatic number": 25,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_25b.col",
+        "vertex": 450,
+        "edge": 8263,
+        "chromatic number": 25,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_25c.col",
+        "vertex": 450,
+        "edge": 17343,
+        "chromatic number": 25,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_25d.col",
+        "vertex": 450,
+        "edge": 17425,
+        "chromatic number": 25,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_5a.col",
+        "vertex": 450,
+        "edge": 5714,
+        "chromatic number": 5,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_5b.col",
+        "vertex": 450,
+        "edge": 5734,
+        "chromatic number": 5,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_5c.col",
+        "vertex": 450,
+        "edge": 9803,
+        "chromatic number": 5,
+        "source": "LEI"
+    },
+    {
+        "instance": "le450_5d.col",
+        "vertex": 450,
+        "edge": 9757,
+        "chromatic number": 5,
+        "source": "LEI"
+    },
+    {
+        "instance": "mulsol.i.1.col",
+        "vertex": 197,
+        "edge": 3925,
+        "chromatic number": 49,
+        "source": "REG"
+    },
+    {
+        "instance": "mulsol.i.2.col",
+        "vertex": 188,
+        "edge": 3885,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "mulsol.i.3.col",
+        "vertex": 184,
+        "edge": 3916,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "mulsol.i.4.col",
+        "vertex": 185,
+        "edge": 3946,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "mulsol.i.5.col",
+        "vertex": 186,
+        "edge": 3973,
+        "chromatic number": 31,
+        "source": "REG"
+    },
+    {
+        "instance": "school1.col",
+        "vertex": 385,
+        "edge": 19095,
+        "chromatic number": "?",
+        "source": "SCH"
+    },
+    {
+        "instance": "school1_nsh.col",
+        "vertex": 352,
+        "edge": 14612,
+        "chromatic number": "?",
+        "source": "SCH"
+    },
+    {
+        "instance": "zeroin.i.1.col",
+        "vertex": 211,
+        "edge": 4100,
+        "chromatic number": 49,
+        "source": "REG"
+    },
+    {
+        "instance": "zeroin.i.2.col",
+        "vertex": 211,
+        "edge": 3541,
+        "chromatic number": 30,
+        "source": "REG"
+    },
+    {
+        "instance": "zeroin.i.3.col",
+        "vertex": 206,
+        "edge": 3540,
+        "chromatic number": 30,
+        "source": "REG"
+    },
+    {
+        "instance": "anna.col",
+        "vertex": 138,
+        "edge": 493,
+        "chromatic number": 11,
+        "source": "SGB"
+    },
+    {
+        "instance": "david.col",
+        "vertex": 87,
+        "edge": 406,
+        "chromatic number": 11,
+        "source": "SGB"
+    },
+    {
+        "instance": "homer.col",
+        "vertex": 561,
+        "edge": 1629,
+        "chromatic number": 13,
+        "source": "SGB"
+    },
+    {
+        "instance": "huck.col",
+        "vertex": 74,
+        "edge": 301,
+        "chromatic number": 11,
+        "source": "SGB"
+    },
+    {
+        "instance": "jean.col",
+        "vertex": 80,
+        "edge": 254,
+        "chromatic number": 10,
+        "source": "SGB"
+    },
+    {
+        "instance": "games120.col",
+        "vertex": 120,
+        "edge": 638,
+        "chromatic number": 9,
+        "source": "SGB"
+    },
+    {
+        "instance": "miles1000.col",
+        "vertex": 128,
+        "edge": 3216,
+        "chromatic number": 42,
+        "source": "SGB"
+    },
+    {
+        "instance": "miles1500.col",
+        "vertex": 128,
+        "edge": 5198,
+        "chromatic number": 73,
+        "source": "SGB"
+    },
+    {
+        "instance": "miles250.col",
+        "vertex": 128,
+        "edge": 387,
+        "chromatic number": 8,
+        "source": "SGB"
+    },
+    {
+        "instance": "miles500.col",
+        "vertex": 128,
+        "edge": 1170,
+        "chromatic number": 20,
+        "source": "SGB"
+    },
+    {
+        "instance": "miles750.col",
+        "vertex": 128,
+        "edge": 2113,
+        "chromatic number": 31,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen10_10.col",
+        "vertex": 100,
+        "edge": 2940,
+        "chromatic number": "?",
+        "source": "SGB"
+    },
+    {
+        "instance": "queen11_11.col",
+        "vertex": 121,
+        "edge": 3960,
+        "chromatic number": 11,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen12_12.col",
+        "vertex": 144,
+        "edge": 5192,
+        "chromatic number": "?",
+        "source": "SGB"
+    },
+    {
+        "instance": "queen13_13.col",
+        "vertex": 169,
+        "edge": 6656,
+        "chromatic number": 13,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen14_14.col",
+        "vertex": 196,
+        "edge": 8372,
+        "chromatic number": "?",
+        "source": "SGB"
+    },
+    {
+        "instance": "queen15_15.col",
+        "vertex": 225,
+        "edge": 10360,
+        "chromatic number": "?",
+        "source": "SGB"
+    },
+    {
+        "instance": "queen16_16.col",
+        "vertex": 256,
+        "edge": 12640,
+        "chromatic number": "?",
+        "source": "SGB"
+    },
+    {
+        "instance": "queen5_5.col",
+        "vertex": 25,
+        "edge": 160,
+        "chromatic number": 5,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen6_6.col",
+        "vertex": 36,
+        "edge": 290,
+        "chromatic number": 7,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen7_7.col",
+        "vertex": 49,
+        "edge": 476,
+        "chromatic number": 7,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen8_12.col",
+        "vertex": 96,
+        "edge": 1368,
+        "chromatic number": 12,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen8_8.col",
+        "vertex": 64,
+        "edge": 728,
+        "chromatic number": 9,
+        "source": "SGB"
+    },
+    {
+        "instance": "queen9_9.col",
+        "vertex": 81,
+        "edge": 2112,
+        "chromatic number": 10,
+        "source": "SGB"
+    },
+    {
+        "instance": "myciel3.col",
+        "vertex": 11,
+        "edge": 20,
+        "chromatic number": 4,
+        "source": "MYC"
+    },
+    {
+        "instance": "myciel4.col",
+        "vertex": 23,
+        "edge": 71,
+        "chromatic number": 5,
+        "source": "MYC"
+    },
+    {
+        "instance": "myciel5.col",
+        "vertex": 47,
+        "edge": 236,
+        "chromatic number": 6,
+        "source": "MYC"
+    },
+    {
+        "instance": "myciel6.col",
+        "vertex": 95,
+        "edge": 755,
+        "chromatic number": 7,
+        "source": "MYC"
+    },
+    {
+        "instance": "myciel7.col",
+        "vertex": 191,
+        "edge": 2360,
+        "chromatic number": 8,
+        "source": "MYC"
+    }
+]
