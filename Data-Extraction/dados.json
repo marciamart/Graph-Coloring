@@ -189,13 +189,6 @@
         "source": "REG"
     },
     {
-        "instance": "latin_square_10.col",
-        "vertex": 900,
-        "edge": 307350,
-        "chromatic number": "?",
-        "source": "NaN"
-    },
-    {
         "instance": "le450_15a.col",
         "vertex": 450,
         "edge": 8168,

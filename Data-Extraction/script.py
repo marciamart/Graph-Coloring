@@ -20,3 +20,4 @@ with open('data.txt', 'r') as d:
 
 with open('dados.json', 'w') as j:
     json.dump(data, j, indent=4)
+    print(data)

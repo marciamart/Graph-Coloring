@@ -25,7 +25,6 @@ fpsol2.i.3.col 425 8688 30 REG
 inithx.i.1.col 864 18707 54 REG
 inithx.i.2.col 645 13979 31 REG
 inithx.i.3.col 621 13969 31 REG
-latin_square_10.col 900 307350 ? NaN
 le450_15a.col 450 8168 15 LEI
 le450_15b.col 450 8169 15 LEI
 le450_15c.col 450 16680 15 LEI
